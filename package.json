@@ -1,5 +1,5 @@
 {
-  "name": "netlify-cms-backend-git-gateway",
+  "name": "netlify-cms-backend-git-gateway-custom",
   "description": "Git Gateway backend for Netlify CMS",
   "version": "2.13.1",
   "repository": "https://github.com/decaporg/decap-cms/tree/master/packages/netlify-cms-backend-git-gateway",
